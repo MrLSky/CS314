@@ -1,0 +1,6 @@
+CS 314 Principles of Programming Languages
+Project 2: Boolean Satisfiability Solver
+
+Project written in Ocaml. 
+
+Please follow http://academicintegrity.rutgers.edu/ and https://www.cs.rutgers.edu/academic-integrity/introduction
